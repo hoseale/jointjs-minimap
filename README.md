@@ -1,0 +1,2 @@
+# jointjs-minimap
+jointjs-minimap
