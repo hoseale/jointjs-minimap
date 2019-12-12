@@ -40,7 +40,7 @@ link2.source(rect3);
 link2.target(rect4);
 graph.addCells([rect, rect2, rect3, rect4, link, link2]);
 
-minimap.default({
+minimap({
   joint, 
   paper, 
   graph, 

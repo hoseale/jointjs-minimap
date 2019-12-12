@@ -1,5 +1,5 @@
 
-import { debounce } from 'utils';
+import { debounce } from '../utils';
 
 // 获取缩放比例和map尺寸
 function getScaleAndSize({ paper, el, $ }) {
